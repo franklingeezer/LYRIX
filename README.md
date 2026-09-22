@@ -7,9 +7,9 @@ you're actually playing music on.
 
 ```
 ┌────────────────┐      ┌──────────────┐      ┌───────────────────┐
-│  Android app    │      │  PC bridge   │      │   ESP32 + OLED     │
-│  (phone/Spotify)│ ───▶ │  (Windows +  │ ───▶ │   receiver/display │
-│                 │      │   Spotify)   │      │                     │
+│ Android app    │      │  PC bridge   │      │  ESP32 + OLED     │
+│ (phone/Spotify)│ ───▶ │ (Windows +   │ ───▶│  receiver/display │
+│                │      │   Spotify)   │      │                   │
 └────────────────┘      └──────────────┘      └───────────────────┘
         │                       │                        ▲
         └───────────────────────┴────────────────────────┘
