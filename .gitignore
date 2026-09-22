@@ -1,0 +1,22 @@
+# ---- Android / Gradle ----
+android/.gradle/
+android/.kotlin/
+android/build/
+android/app/build/
+android/local.properties
+android/.idea/
+android/*.iml
+android/captures/
+android/.externalNativeBuild/
+android/.cxx/
+
+# ---- Python ----
+pc-bridge/__pycache__/
+pc-bridge/*.pyc
+pc-bridge/venv/
+pc-bridge/.venv/
+
+# ---- OS / editor junk ----
+.DS_Store
+Thumbs.db
+*.swp
